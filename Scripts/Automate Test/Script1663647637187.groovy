@@ -21,3 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('')
 
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
